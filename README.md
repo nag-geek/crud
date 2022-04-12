@@ -1,2 +1,2 @@
-# crud
-simple create,delete,read,update operation
+Simple Create, Read, Update, Delete Using PHP & MySQL
+
